@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+table, td {
+    border: 1px solid black; 
+    text-align: center;  
+}
+
+table {
+    width: 100%;   
+}
+
+#red {
+    background-color: red;
+}
+
+#bluetext {
+    color: blue;
+    font-style: italic;
+}
+
+form {
+    padding: 1em;
+    width: 100%;
+   
+}
+
+ label {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+input {
+    margin-left: 10px;
+    width: 50px;
+}
+
+#color {
+    padding: 0;
+}
